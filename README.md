@@ -3,6 +3,7 @@ An implementation of BFS, DFS and A* search with topic of 24 points game, good f
 
 To compile:
     $ cd /[PATH_TO_THIS_DIRECTORY]/ 
+    
     $ make
 
 Problem Representation(shittiest part):
